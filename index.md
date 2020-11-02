@@ -15,8 +15,8 @@
 
 ## Moderator Information
 
-- Sethlina Aryee - PhD Candidate in Population Genomics (University of Cambridge)
-- Albert Kang - PhD Candidate in Compuational Biology (University of Cambridge)
+- **Sethlina Aryee** - PhD Candidate in Population Genomics (University of Cambridge)
+- **Albert Kang** - PhD Candidate in Compuational Biology (University of Cambridge)
 
 ## Schedule
 
