@@ -13,6 +13,26 @@
 | [Dr. Richard Osei-Amponsah](https://raw.githubusercontent.com/gbti/agrigenomics2020/gh-pages/speakers/richard.JPG)   | University of Ghana                   | :ghana: |
 | [Dr. Carole Sargent](https://raw.githubusercontent.com/gbti/agrigenomics2020/gh-pages/speakers/carole.JPG)           | University of Cambridge               | :gb:    |
 
+## Schedule
+
+### Day 1
+
+| Time          | Item                      |
+|---------------|---------------------------|
+| 14:00 - 14:20 | Dr. Richard Osei-Amponsah |
+| 14:20 - 14:40 | Dr. Carole Sargent        |
+| 14:40 - 15:00 | Prof. Alan L. Archibald   |
+| 15:00 - 15:30 | **Open discussion**       |
+
+### Day 2
+
+| Time          | Item                        |
+|---------------|-----------------------------|
+| 14:00 - 14:20 | Dr. Christian K. Tiambo     |
+| 14:20 - 14:40 | Dr. Esinam Nancy Amuzu-Aweh |
+| 14:40 - 15:00 | Dr. Benjamin Skinner        |
+| 15:00 - 15:30 | **Open discussion**         |
+
 ## Registration
 
 Please register in advance for this exciting discussion forum [here](https://zoom.us/webinar/register/WN_XUN2Ts1KRIebR1q_QJvrTA)!
