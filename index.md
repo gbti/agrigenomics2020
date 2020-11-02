@@ -2,7 +2,6 @@
 
 <img src="main.jpg" class="inline"/>
 
-
 ## Speakers
 
 | Speaker                   | Affiliation                           |         |
@@ -20,4 +19,4 @@ Please register in advance for this exciting discussion forum [here](https://zoo
 
 ## Contact us
 
-E-mail: *ghana.bioinfo@mail.com*
+**E-mail:** [ghana.bioinfo@mail.com](mailto:ghana.bioinfo@mail.com)
