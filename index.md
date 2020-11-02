@@ -13,6 +13,11 @@
 | [Dr. Richard Osei-Amponsah](https://raw.githubusercontent.com/gbti/agrigenomics2020/gh-pages/speakers/richard.JPG)   | University of Ghana                   | :ghana: |
 | [Dr. Carole Sargent](https://raw.githubusercontent.com/gbti/agrigenomics2020/gh-pages/speakers/carole.JPG)           | University of Cambridge               | :gb:    |
 
+## Moderator Information
+
+- Sethlina Aryee - PhD Candidate in Population Genomics (University of Cambridge)
+- Albert Kang - PhD Candidate in Compuational Biology & Machine Learning (University of Cambridge)
+
 ## Schedule
 
 ### Day 1 (Wednesday, Nov 18)
