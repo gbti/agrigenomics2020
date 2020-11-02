@@ -15,7 +15,7 @@
 
 ## Schedule
 
-### Day 1
+### Day 1 (Wednesday, Nov 18)
 
 | Time          | Item                      |
 |---------------|---------------------------|
@@ -24,7 +24,7 @@
 | 14:40 - 15:00 | Prof. Alan L. Archibald   |
 | 15:00 - 15:30 | **Open discussion**       |
 
-### Day 2
+### Day 2 (Thursday, Nov 19)
 
 | Time          | Item                        |
 |---------------|-----------------------------|
