@@ -1,6 +1,8 @@
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
+plugins:
+  - jemoji
 
 title: 'GBTI Virtual Discussion Forum - Winter 2020'
 description: 'Agricultural Genomics and Bioinformatics: Future of Food Security in Ghana'
