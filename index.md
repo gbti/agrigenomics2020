@@ -24,19 +24,21 @@
 
 | Time          | Item                      |
 |---------------|---------------------------|
-| 14:00 - 14:20 | Dr. Richard Osei-Amponsah |
-| 14:20 - 14:40 | Dr. Carole Sargent        |
-| 14:40 - 15:00 | Prof. Alan L. Archibald   |
-| 15:00 - 15:30 | **Open discussion**       |
+| 14:00 - 14:05 | Introduction              |
+| 14:05 - 14:25 | Dr. Richard Osei-Amponsah |
+| 14:25 - 14:45 | Dr. Carole Sargent        |
+| 14:45 - 15:05 | Prof. Alan L. Archibald   |
+| 15:05 - 15:30 | **Open discussion**       |
 
 ### Day 2 (Thursday, Nov 19)
 
 | Time          | Item                        |
 |---------------|-----------------------------|
-| 14:00 - 14:20 | Dr. Christian K. Tiambo     |
-| 14:20 - 14:40 | Dr. Esinam Nancy Amuzu-Aweh |
-| 14:40 - 15:00 | Dr. Benjamin Skinner        |
-| 15:00 - 15:30 | **Open discussion**         |
+| 14:00 - 14:05 | Introduction                |
+| 14:05 - 14:25 | Dr. Christian K. Tiambo     |
+| 14:25 - 14:45 | Dr. Esinam Nancy Amuzu-Aweh |
+| 14:45 - 15:05 | Dr. Benjamin Skinner        |
+| 15:05 - 15:30 | **Open discussion**         |
 
 ## Registration
 
