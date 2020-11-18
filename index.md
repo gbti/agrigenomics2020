@@ -22,13 +22,13 @@
 
 ### Day 1 (Wednesday, Nov 18)
 
-| Time          | Item                      | Title                                                                                       |
-|---------------|---------------------------|---------------------------------------------------------------------------------------------|
-| 14:00 - 14:05 | **Introduction**          |                                                                                             |
-| 14:05 - 14:25 | Dr. Richard Osei-Amponsah | **Agricultural Genomics and Bioinformatics: Future of Food Security in Ghana**              |
-| 14:25 - 14:45 | Dr. Carole Sargent        | **Biodiversity and Collaboration: Building Our Knowledge Base, Friendship Human Resources** |
-| 14:45 - 15:05 | Prof. Alan L. Archibald   | *TBA*                                                                                       |
-| 15:05 - 15:30 | **Open discussion**       |                                                                                             |
+| Time          | Item                      | Title                                                                                         |
+|---------------|---------------------------|-----------------------------------------------------------------------------------------------|
+| 14:00 - 14:05 | **Introduction**          |                                                                                               |
+| 14:05 - 14:25 | Dr. Richard Osei-Amponsah | **Agricultural Genomics and Bioinformatics: Future of Food Security in Ghana**                |
+| 14:25 - 14:45 | Dr. Carole Sargent        | **Biodiversity and Collaboration: Building Our Knowledge Base, Friendship & Human Resources** |
+| 14:45 - 15:05 | Prof. Alan L. Archibald   | *TBA*                                                                                         |
+| 15:05 - 15:30 | **Open discussion**       |                                                                                               |
 
 ### Day 2 (Thursday, Nov 19)
 
